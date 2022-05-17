@@ -34,8 +34,8 @@
 >개발 기간: 2022.03.07 ~ 2022.04.08  
 >  
 >기술 스택:  
->Java 15 / Spring Framework 5.0.8 / Maven / Oracle 11g </br>
->Mybatis 3.4.6 / Javascript / jQuery / Ajax
+>Java 15 / Spring Framework / Maven / Oracle </br>
+>Mybatis / Javascript / jQuery / Ajax
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
@@ -46,8 +46,8 @@
 >개발 기간: 2022.01.24 ~ 2022.03.02  
 >  
 >기술 스택:  
->Java 15 / Spring Framework 5.0.8 / Maven / Oracle 11g </br>
->Mybatis 3.4.6 / Javascript / jQuery 
+>Java 15 / Spring Framework / Maven / Oracle </br>
+>Mybatis / Javascript / jQuery 
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
