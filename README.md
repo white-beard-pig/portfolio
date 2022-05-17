@@ -35,7 +35,7 @@
 >  
 >기술 스택:  
 >Java 15 / Spring Framework / Maven / Oracle </br>
->Mybatis / Javascript / jQuery / Ajax
+>Mybatis / Javascript / jQuery / Ajax / Bootstrap
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
@@ -47,7 +47,7 @@
 >  
 >기술 스택:  
 >Java 15 / Spring Framework / Maven / Oracle </br>
->Mybatis / Javascript / jQuery 
+>Mybatis / Javascript / jQuery / Bootstrap
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
