@@ -1,10 +1,10 @@
 # 석광우 포트폴리오
 <img src="https://user-images.githubusercontent.com/84454039/168817824-fec37c9a-da76-40b3-b85f-04af4a24c461.jpg" width="200" height="200">
 
-저는 <img src="https://user-images.githubusercontent.com/84454039/168814029-eaa2d7e7-c0a4-4208-88e0-ad0848c9178a.png" width="70" height="22">하는 개발자입니다.  
-1. 배움에 목마름이 있는  
-2. 꾸준히 학습하고 성장하는  
-3. 사람들이 필요하는 서비스를 만들 때 희열을 느끼는
+>저는 <img src="https://user-images.githubusercontent.com/84454039/168814029-eaa2d7e7-c0a4-4208-88e0-ad0848c9178a.png" width="70" height="22">하는 개발자입니다.  
+>1. 배움에 목마름이 있는  
+>2. 꾸준히 학습하고 성장하는  
+>3. 사람들이 필요하는 서비스를 만들 때 희열을 느끼는
 
 <br>
 
