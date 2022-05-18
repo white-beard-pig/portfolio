@@ -37,7 +37,7 @@
 >Java 15 / Spring Framework / Maven / Oracle </br>
 >Mybatis / Javascript / jQuery / Ajax / Bootstrap
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명]([https://github.com/Integerous/goQuality](https://github.com/skwo313/FFunding#:~:text=%F0%9F%93%8C,FFunding)) 참고
 
 ---
 
