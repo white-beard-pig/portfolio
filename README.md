@@ -28,7 +28,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [FFunding](bit.ly/3wIOmAp)
+### 1. [FFunding](https://bit.ly/3wIOmAp)
 >사용자가 관심이 있는 펀딩 상품에 자금을 지원 가능하며
 누구든지 자신의 아이디어를 펀딩 상품으로 실현 가능한 사이트 (팀 프로젝트)  
 >개발 기간: 2022.03.07 ~ 2022.04.08  
@@ -37,7 +37,7 @@
 >Java 15 / Spring Framework / Maven / Oracle </br>
 >Mybatis / Javascript / jQuery / Ajax / Bootstrap
 >  
->[프로젝트 상세 설명](bit.ly/3PE3Ywu) 참고
+>[프로젝트 상세 설명](https://bit.ly/3PE3Ywu) 참고
 
 ---
 
