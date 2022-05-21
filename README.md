@@ -28,7 +28,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [FFunding](http://ffunding.xyz/ffunding)
+### 1. [FFunding](bit.ly/3wIOmAp)
 >사용자가 관심이 있는 펀딩 상품에 자금을 지원 가능하며
 누구든지 자신의 아이디어를 펀딩 상품으로 실현 가능한 사이트 (팀 프로젝트)  
 >개발 기간: 2022.03.07 ~ 2022.04.08  
@@ -37,11 +37,11 @@
 >Java 15 / Spring Framework / Maven / Oracle </br>
 >Mybatis / Javascript / jQuery / Ajax / Bootstrap
 >  
->[프로젝트 상세 설명](https://github.com/skwo313/FFunding#:~:text=%F0%9F%93%8C,FFunding) 참고
+>[프로젝트 상세 설명](bit.ly/3PE3Ywu) 참고
 
 ---
 
-### 2. [Camp Ping]()
+### 2. [Camp Ping](https://bit.ly/3G8i98z)
 >지도 API를 이용한 캠핑장 정보 및 예약, 캠핑용품 판매 사이트 (팀 프로젝트)  
 >개발 기간: 2022.01.24 ~ 2022.03.02  
 >  
@@ -49,7 +49,7 @@
 >Java 15 / Spring Framework / Maven / Oracle </br>
 >Mybatis / Javascript / jQuery / Bootstrap
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://bit.ly/3LEMcps) 참고
 
 ---
 
